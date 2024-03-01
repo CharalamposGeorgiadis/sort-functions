@@ -1,0 +1,5 @@
+ipython
+numba
+numba-progress
+numpy
+tqdm
